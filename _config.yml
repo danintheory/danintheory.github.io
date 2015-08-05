@@ -1,27 +1,54 @@
 # general configuration
-url: http://excentris.net
+url: www.mit.edu/~drob
 baseurl: ''
+
+# exclude
+exclude: ["CNAME", "LICENSE", "Gemfile", "Gemfile.lock", 'README.md', 'favicon.ico', 'images/dan-jet-pack.svg']
 
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "/images/dar.jpg"
   # author will appear under the avatar (optional)
-  author: "Compass"
+  author: "Dan Roberts"
   # tagline will appear under the title (optional)
-  tagline: "The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing page"
+  # tagline: "PhD student in high energy theoretical physics"
+  tagline: "Physics"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
   # if include_analytics is true, the content of the analytics.html include will
   # be added at the end of the <head> section. You can add your Google Analytics
   # Tracking Code to that file.
-  include_analytics: false
+  include_analytics: true
 
 # Dependencies
 markdown: kramdown
 highlighter: pygments
+parse_block_html: true
 
 # Permalinks
 permalink: pretty
 relative_permalinks: true
+
+
+scholar:
+  style: ieee
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: ./_bibliography
+  bibliography: hep-publications.bib
+  bibliography_template: "{{reference}}"
+  # bibliography_template: "{{reference}} {% if link %}[<a href=\"{{link}}\">pdf</a>]{% endif %}"
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
