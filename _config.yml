@@ -3,7 +3,7 @@ url: www.mit.edu/~drob
 baseurl: ''
 
 # exclude
-exclude: ["CNAME", "LICENSE", "Gemfile", "Gemfile.lock", 'README.md', 'favicon.ico', 'images/dan-jet-pack.svg']
+exclude: ["CNAME", "LICENSE", "Gemfile", "Gemfile.lock", 'README.md', 'images/dan-jet-pack.svg']
 
 # compass configuration
 compass:

@@ -1,8 +1,8 @@
-## Dan Roberts
+# Dan Roberts
 
 I'm a Ph.D. student at [Center for Theoretical Physics](http://www-ctp.mit.edu/) at [MIT](http://web.mit.edu/) funded by a Hertz Foundation Fellowship and the NDSEG. Previously, I was a Marshall Scholar read for [Part III of the Mathematical Tripos](http://www.maths.cam.ac.uk/postgrad/mathiii/) at Cambridge and then studied quantum computation at Oxford. In a previous life (undergrad), I worked on invisibility cloaks (metamaterials and transformation optics) with [David R. Smith](http://people.ee.duke.edu/~drsmith/).
 
-My name is very common, so I try my best to publish under my full name (which I never go by) [Daniel Adam Roberts](http://www.danintheory.com), which unfortunately also happens to be very common.
+My name is very common, so I try my best to publish under more parts of my full name (which I never go by) [Daniel Adam Roberts](http://www.danintheory.com), which unfortunately also happens to be very common.
 
 ## Research
 I'm interested in black holes. I'm also interested in quantum information and computation. Luckily, via the gauge/gravity duality or [holography](http://arxiv.org/abs/hep-th/9711200), these two subjects are intricately tied together: after years people worrying about confusing the acronyms for the very different concepts of wormholes [ER](http://journals.aps.org/pr/abstract/10.1103/PhysRev.48.73) and quantum entanglement [EPR](http://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777), it turns out that they are actually equal [ER=EPR](http://arxiv.org/abs/1306.0533).
