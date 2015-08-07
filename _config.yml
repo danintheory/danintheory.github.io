@@ -1,6 +1,6 @@
 # general configuration
-url: www.mit.edu/~drob
-baseurl: '/drob/www/'
+url: 
+baseurl: '/drob/www'
 
 # exclude
 exclude: ["CNAME", "LICENSE", "Gemfile", "Gemfile.lock", 'README.md', 'images/dan-jet-pack.svg']
@@ -8,7 +8,7 @@ exclude: ["CNAME", "LICENSE", "Gemfile", "Gemfile.lock", 'README.md', 'images/da
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/dar.jpg"
+  # logo: "/images/dar.jpg"
   # author will appear under the avatar (optional)
   author: "Dan Roberts"
   # tagline will appear under the title (optional)
