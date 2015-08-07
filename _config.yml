@@ -1,6 +1,6 @@
 # general configuration
-url: ~/drob
-baseurl:
+url: 
+baseurl: ~/drob
 
 # exclude
 exclude: ["CNAME", "LICENSE", "Gemfile", "Gemfile.lock", 'README.md', 'images/dan-jet-pack.svg']
