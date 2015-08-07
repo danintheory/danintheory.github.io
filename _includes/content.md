@@ -26,7 +26,7 @@ I'm also interested in machine learning and AI. I recently competed in the [MIT 
 ## Publications
 * [inSPIRE](http://inspirehep.net/author/profile/Daniel.A.Roberts.1)
 * [arXiv](http://arxiv.org/a/roberts_d_3.html)
-* [Google Scholar](http://scholar.google.com/citations?user=f6584f8AAAAJ)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=f6584f8AAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Talks on YouTube
 ![Picture of video playing youtube talk](images/dar-talk.png "Picture of video playing youtube talk")
