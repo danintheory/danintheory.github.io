@@ -11,7 +11,7 @@ I'm interested in black holes. I'm also interested in quantum information theory
 
 Some of my work focuses on what happens when something falls into black hole (in anti-de Sitter space). The black hole will very quickly [scramble](http://arxiv.org/abs/0808.2096) (but not destroy) the information. Black holes are thermal systems, and this is actually a manifestation of the well known [butterfly effect](http://arxiv.org/abs/1306.0622). We can try to think about this process in terms [tensor networks](http://arxiv.org/abs/1409.8180), or we study it in the dual conformal field theory as a distinguishing feature of [quantum chaos](http://arxiv.org/abs/1412.5123).
 
-I'm also interested in machine learning and AI. I recently competed in the [MIT Pokerbots](http://mitpokerbots.com/) competition where participants build an AI bot to play three person pot-limit games of Texas hold 'em. My team placed first out of 38 teams in a tournament over 600,000 hands played.
+I'm also interested in machine learning and AI. I recently competed in the [MIT Pokerbots](http://mitpokerbots.com/) competition where participants build an AI bot to play three person pot-limit games of Texas hold 'em. My team placed first out of 38 teams in a tournament with over 600,000 hands played.
 
 ## Education
 * PhD, high energy theoretical physics (expected) 2016.\\
