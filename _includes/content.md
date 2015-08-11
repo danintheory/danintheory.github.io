@@ -5,13 +5,19 @@ I'm a Ph.D. student at [Center for Theoretical Physics](http://www-ctp.mit.edu/)
 My name is very common, so I try my best to publish under more parts of my full name (which I never go by) [Daniel Adam Roberts](http://www.danintheory.com), which unfortunately also happens to be very common.
 
 ## Research
-I'm interested in black holes. I'm also interested in quantum information theory. Luckily, via the gauge/gravity duality or [holography](http://arxiv.org/abs/hep-th/9711200), these two subjects are intricately tied together: after years of needing to make a distinction between the acronyms for the very different concepts of [wormholes](http://journals.aps.org/pr/abstract/10.1103/PhysRev.48.73) (ER) and [quantum entanglement](http://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) (EPR), it turns out that they are actually descriptions of the same basic phenomenon, i.e. [ER=EPR](http://arxiv.org/abs/1306.0533).*
-
-*Though they still maintain their maiden names.
+I'm interested in black holes. I'm also interested in quantum information theory. Luckily, via the gauge/gravity duality or [holography](http://arxiv.org/abs/hep-th/9711200), these two subjects are intricately tied together.
+<!-- : after years of needing to make a distinction between the acronyms for the very different concepts of [wormholes](http://journals.aps.org/pr/abstract/10.1103/PhysRev.48.73) (ER) and [quantum entanglement](http://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) (EPR), it turns out that they are actually descriptions of the same basic phenomenon, i.e. [ER=EPR](http://arxiv.org/abs/1306.0533).*
+*Though they still maintain their maiden names.\\
+**This being the equality and not assignment use of that symbol. -->
 
 Some of my work focuses on what happens when something falls into a black hole (in anti-de Sitter space). The black hole will very quickly [scramble](http://arxiv.org/abs/0808.2096) (but not destroy) the information. Black holes are thermal systems, and this is actually a manifestation of the well known [butterfly effect](http://arxiv.org/abs/1306.0622). We can try to think about this process in terms [tensor networks](http://arxiv.org/abs/1409.8180), or we study it in the dual conformal field theory as a distinguishing feature of [quantum chaos](http://arxiv.org/abs/1412.5123).
 
 I'm also interested in machine learning and AI. I recently competed in the [MIT Pokerbots](http://mitpokerbots.com/) competition where participants build an AI bot to play three person pot-limit games of Texas hold 'em. My team placed first out of 38 teams in a tournament with over 600,000 hands played.
+
+## Publications
+* [inSPIRE](http://inspirehep.net/author/profile/Daniel.A.Roberts.1)
+* [arXiv](http://arxiv.org/a/roberts_d_3.html)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=f6584f8AAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Education
 * PhD, high energy theoretical physics (expected) 2016.\\
@@ -22,11 +28,6 @@ I'm also interested in machine learning and AI. I recently competed in the [MIT 
 [St. John's College](http://www.joh.cam.ac.uk/), [University of Cambridge](http://www.cam.ac.uk/)
 * BSE/BS, Physics and Electrical & Computer Engineering, 2009. \\
 [Pratt School of Engineering](http://pratt.duke.edu/), [Duke University](http://duke.edu/)
-
-## Publications
-* [inSPIRE](http://inspirehep.net/author/profile/Daniel.A.Roberts.1)
-* [arXiv](http://arxiv.org/a/roberts_d_3.html)
-* [Google Scholar](https://scholar.google.com/citations?hl=en&user=f6584f8AAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Talks on YouTube
 ![Picture of video playing youtube talk](images/dar-talk.png "Picture of video playing youtube talk")
