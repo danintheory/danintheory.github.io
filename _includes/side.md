@@ -1,4 +1,4 @@
-<img src="images/dan-jet-pack.png" alt="Dan and a jet pack" />
+![I study gravity.](images/dan-jet-pack.png "I study gravity.")
 <br />
 Email: [drob@mit.edu](mailto:drob@mit.edu)
 <br />

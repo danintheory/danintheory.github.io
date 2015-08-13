@@ -19,6 +19,7 @@ I'm also interested in machine learning and AI. I recently competed in the [MIT 
 * [arXiv](http://arxiv.org/a/roberts_d_3.html)
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=f6584f8AAAAJ&view_op=list_works&sortby=pubdate)
 
+<!-- 
 ## Education
 * PhD, high energy theoretical physics (expected) 2016.\\
 [CTP](http://www-ctp.mit.edu/), [MIT](http://web.mit.edu/)
@@ -27,10 +28,10 @@ I'm also interested in machine learning and AI. I recently competed in the [MIT 
 * MASt in Mathematics, 2010. \\
 [St. John's College](http://www.joh.cam.ac.uk/), [University of Cambridge](http://www.cam.ac.uk/)
 * BSE/BS, Physics and Electrical & Computer Engineering, 2009. \\
-[Pratt School of Engineering](http://pratt.duke.edu/), [Duke University](http://duke.edu/)
+[Pratt School of Engineering](http://pratt.duke.edu/), [Duke University](http://duke.edu/) -->
 
 ## Talks on YouTube
-![Picture of video playing youtube talk](images/dar-talk.png "Picture of video playing youtube talk")
+![A portrayal of what it might look like to watch my talk on YouTube.](images/dar-talk.png "A portrayal of what it might look like to watch my talk on YouTube.")
 
 * [Strings 2015 - The butterfly effect in spin chains and 2d CFT](http://youtu.be/06fiqmu-9ak) 
 
