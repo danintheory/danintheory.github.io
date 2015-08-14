@@ -6,9 +6,6 @@ My name is very common, so I try my best to publish under more parts of my full 
 
 ## Research
 I'm interested in black holes. I'm also interested in quantum information theory. Luckily, via the gauge/gravity duality or [holography](http://arxiv.org/abs/hep-th/9711200), these two subjects are intricately tied together.
-<!-- : after years of needing to make a distinction between the acronyms for the very different concepts of [wormholes](http://journals.aps.org/pr/abstract/10.1103/PhysRev.48.73) (ER) and [quantum entanglement](http://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) (EPR), it turns out that they are actually descriptions of the same basic phenomenon, i.e. [ER=EPR](http://arxiv.org/abs/1306.0533).*
-*Though they still maintain their maiden names.\\
-**This being the equality and not assignment use of that symbol. -->
 
 Some of my work focuses on what happens when something falls into a black hole (in anti-de Sitter space). The black hole will very quickly [scramble](http://arxiv.org/abs/0808.2096) (but not destroy) the information. Black holes are thermal systems, and this is actually a manifestation of the well known [butterfly effect](http://arxiv.org/abs/1306.0622). We can try to think about this process in terms [tensor networks](http://arxiv.org/abs/1409.8180), or we study it in the dual conformal field theory as a distinguishing feature of [quantum chaos](http://arxiv.org/abs/1412.5123).
 
@@ -33,10 +30,4 @@ I'm also interested in machine learning and AI. I recently competed in the [MIT 
 ## Talks on YouTube
 ![A portrayal of what it might look like to watch my talk on YouTube.](images/dar-talk.png "A portrayal of what it might look like to watch my talk on YouTube.")
 
-* [Strings 2015 - The butterfly effect in spin chains and 2d CFT](http://youtu.be/06fiqmu-9ak) 
-
-
-<!-- {% bibliography %}
-
-## Other Publications
-{% bibliography --file other-publications.bib%} -->
+* [Strings 2015 - The butterfly effect in spin chains and 2d CFT](http://youtu.be/06fiqmu-9ak)
