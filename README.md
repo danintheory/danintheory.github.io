@@ -1,6 +1,6 @@
 Personal academic website for [Dan Roberts](http://www.danintheory.com).
 
-This was website was based on [Compass](https://github.com/excentris/compass).
+This website is based on the [Compass](https://github.com/excentris/compass) Jekyll theme.
 
 # Compass Documentation
 
