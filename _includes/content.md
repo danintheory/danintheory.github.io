@@ -14,9 +14,9 @@ I'm also interested in machine learning and AI. I recently competed in the [MIT 
 ## Publications
 * [inSPIRE](http://inspirehep.net/author/profile/Daniel.A.Roberts.1)
 * [arXiv](http://arxiv.org/a/roberts_d_3.html)
-* [Google Scholar](https://scholar.google.com/citations?hl=en&user=f6584f8AAAAJ&view_op=list_works&sortby=pubdate)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=f6584f8AAAAJ&view_op=list_works)
 
-<!-- 
+<!--
 ## Education
 * PhD, high energy theoretical physics (expected) 2016.\\
 [CTP](http://www-ctp.mit.edu/), [MIT](http://web.mit.edu/)
