@@ -7,9 +7,12 @@ My name is very common, so I try my best to publish under more parts of my full 
 ## Research
 I'm interested in black holes. I'm also interested in quantum information theory. Luckily, via the gauge/gravity duality or [holography](http://arxiv.org/abs/hep-th/9711200), these two subjects are intricately tied together.
 
-Some of my work focuses on what happens when something falls into a black hole (in anti-de Sitter space). The black hole will very quickly [scramble](http://arxiv.org/abs/0808.2096) (but not destroy) the information. Black holes are thermal systems, and this is actually a manifestation of the well known [butterfly effect](http://arxiv.org/abs/1306.0622). We can try to think about this process in terms [tensor networks](http://arxiv.org/abs/1409.8180), or we study it in the dual conformal field theory as a distinguishing feature of [quantum chaos](http://arxiv.org/abs/1412.5123).
+Some of my work focuses on what happens when something falls into a black hole (in anti-de Sitter space). The black hole will very quickly [scramble](http://arxiv.org/abs/0808.2096) (but not destroy) the information. Black holes are thermal systems, and this is actually a manifestation of the well known [butterfly](http://arxiv.org/abs/1306.0622) [effect](http://arxiv.org/abs/1409.8180). We can try to think about this process purely in terms of quantum [information](http://arxiv.org/abs/1511.04021) and [complexity](http://arxiv.org/abs/1509.07876), or we can study it in the dual conformal field theory as a distinguishing feature of [quantum chaos](http://arxiv.org/abs/1412.5123).
 
-<!-- I'm also interested in machine learning and AI. I recently competed in the [MIT Pokerbots](http://mitpokerbots.com/) competition where participants build an AI bot to play three person pot-limit games of Texas hold &rsquo;em. My team placed first out of 38 teams in a tournament with over 600,000 hands played. -->
+Semi-orthogonally, I'm interested in applying supersymmetry (SUSY) to early universe cosmology or inflation; in other words, studying how inflation is embedded in supergravity (SUGRA). The first step is to understand the minimal low-energy [degrees of freedom](http://arxiv.org/abs/1504.05958) using effective field theory. The follow up is to embed this theory in [SUGRA](http://arxiv.org/abs/1512.00545).
+
+Orthogonally, I'm also interested in machine learning and AI. They might even give me a [patent](http://www.freepatentsonline.com/y2015/0324454.html)!
+<!-- I also recently competed in the [MIT Pokerbots](http://mitpokerbots.com/) competition where participants build an AI bot to play three person pot-limit games of Texas hold &rsquo;em. My team placed first out of 38 teams in a tournament with over 600,000 hands played. -->
 
 ## Publications
 * [inSPIRE](http://inspirehep.net/author/profile/Daniel.A.Roberts.1)
