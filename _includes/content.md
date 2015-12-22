@@ -1,6 +1,6 @@
 # Dan Roberts
 
-I'm a Ph.D. student at [Center for Theoretical Physics](http://www-ctp.mit.edu/) at [MIT](http://web.mit.edu/) funded by a Hertz Foundation Fellowship and the NDSEG. Previously, I was a Marshall Scholar in the UK. While there, I read for [Part III of the Mathematical Tripos](http://www.maths.cam.ac.uk/postgrad/mathiii/) at Cambridge and then studied quantum computation at Oxford. In a previous life (undergrad), I worked on invisibility cloaks (metamaterials and transformation optics) with [David R. Smith](http://people.ee.duke.edu/~drsmith/).
+I'm a Ph.D. student at [Center for Theoretical Physics](http://www-ctp.mit.edu/) at [MIT](http://web.mit.edu/) funded by a Hertz Foundation Fellowship and the NDSEG. Previously, I was a Marshall Scholar in the UK. While there, I read for [Part III of the Mathematical Tripos](http://www.maths.cam.ac.uk/postgrad/mathiii/) at Cambridge and then studied quantum computation at Oxford. In a previous life (undergrad), I worked on invisibility cloaks (metamaterials and transformation optics) with [David R. Smith](http://people.ee.duke.edu/~drsmith/). In the fall, I will begin a postdoc at the [IAS](https://www.sns.ias.edu/).
 
 My name is very common, so I try my best to publish under more parts of my full name (which I never go by) [Daniel Adam Roberts](http://www.danintheory.com), which unfortunately also happens to be very common.
 
