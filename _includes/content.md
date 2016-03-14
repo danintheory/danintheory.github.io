@@ -11,7 +11,7 @@ Some of my work focuses on what happens when something falls into a black hole (
 
 Semi-orthogonally, I'm interested in applying supersymmetry (SUSY) to early universe cosmology; in other words, studying how inflation is embedded in supergravity (SUGRA). The first step is to understand the minimal low-energy [degrees of freedom](http://arxiv.org/abs/1504.05958) using effective field theory. The follow up is to embed this theory in [SUGRA](http://arxiv.org/abs/1512.00545).
 
-Fully-orthogonally, I'm also interested in machine learning and AI. They might even give me a [patent](http://www.freepatentsonline.com/y2015/0324454.html)!
+Fully-orthogonally, I'm also interested in machine learning and AI. They even gave me a [patent](http://patents.google.com/patent/US9275132B2/en)!
 <!-- I also recently competed in the [MIT Pokerbots](http://mitpokerbots.com/) competition where participants build an AI bot to play three person pot-limit games of Texas hold &rsquo;em. My team placed first out of 38 teams in a tournament with over 600,000 hands played. -->
 
 ## Publications
