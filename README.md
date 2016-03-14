@@ -13,7 +13,8 @@ Compass is a Jekyll theme designed with something very specific in mind: to be a
 3. Then run `bundle install` to get [Jekyll](http://jekyllrb.com) and all the dependencies.
 4. Clone the repository you just forked: `git clone https://github.com/YOUR-USER/compass`
 5. Edit `_config.yml` as needed.
-6. Run the Jekyll server with `bundle exec jekyll serve`
+6a. Run the Jekyll server with `bundle exec jekyll serve`
+6b. If that generated a "command not found: jekyll" error, you might need to say `bundle show jekyll`, add `bin/jekyll` to the path, and use that entire path in place of `jekyll` in the command `bundle exec jekyll serve`.
 7. Go to `http://localhost:4000`
 
 ## Deploy your site to GitHub Pages
