@@ -5,14 +5,13 @@ I'm a Ph.D. student at [Center for Theoretical Physics](http://www-ctp.mit.edu/)
 My name is very common, so I try my best to publish under more parts of my full name (which I never go by) [Daniel Adam Roberts](http://www.danintheory.com), which unfortunately also happens to be very common.
 
 ## Research
-I'm interested in black holes. I'm also interested in quantum information theory. Luckily, via the gauge/gravity duality or [holography](http://arxiv.org/abs/hep-th/9711200), these two subjects are intricately tied together.
+I'm interested in [black holes](http://arxiv.org/abs/1512.04993). I'm also interested in [quantum information theory](http://arxiv.org/abs/1603.09298). Luckily, via the gauge/gravity duality or holography, these two subjects are intricately tied together.
 
-Some of my work focuses on what happens when something falls into a black hole (in anti-de Sitter space). The black hole will very quickly [scramble](http://arxiv.org/abs/0808.2096) (but not destroy) the information. Black holes are thermal systems, and this is actually a manifestation of the well known [butterfly](http://arxiv.org/abs/1306.0622) [effect](http://arxiv.org/abs/1409.8180). We can try to think about this process purely in terms of quantum [information](http://arxiv.org/abs/1511.04021) and [complexity](http://arxiv.org/abs/1509.07876), or we can study it in the dual conformal field theory as a distinguishing feature of [quantum chaos](http://arxiv.org/abs/1412.5123).
+Some of my work focuses on what happens when something falls into a black hole (in anti-de Sitter space). The black hole will very quickly [scramble](http://arxiv.org/abs/1511.04021) (but not destroy) the information. Black holes are thermal systems, and this is actually a manifestation of the well-known [butterfly effect](http://arxiv.org/abs/1409.8180). We can try to think about this process in terms of its [complexity](http://arxiv.org/abs/1509.07876), or we can study it in the dual conformal field theory as a distinguishing feature of [quantum chaos](http://arxiv.org/abs/1412.5123).
 
-Semi-orthogonally, I'm interested in applying supersymmetry (SUSY) to early universe cosmology; in other words, studying how inflation is embedded in supergravity (SUGRA). The first step is to understand the minimal low-energy [degrees of freedom](http://arxiv.org/abs/1504.05958) using effective field theory. The follow up is to embed this theory in [SUGRA](http://arxiv.org/abs/1512.00545).
+Semi-orthogonally, I'm interested in applying supersymmetry (SUSY) to early universe cosmology; in other words, studying how inflation is embedded in supergravity (SUGRA). The first step is to understand the minimal low-energy degrees of freedom, the [goldstone and goldstino](http://arxiv.org/abs/1504.05958), using the effective field theory of inflation.
 
-Fully-orthogonally, I'm also interested in machine learning and AI. They even gave me a [patent](http://patents.google.com/patent/US9275132B2/en)!
-<!-- I also recently competed in the [MIT Pokerbots](http://mitpokerbots.com/) competition where participants build an AI bot to play three person pot-limit games of Texas hold &rsquo;em. My team placed first out of 38 teams in a tournament with over 600,000 hands played. -->
+Fully-orthogonally, I'm also interested in machine learning and AI. On one hand, my team is the 2015 and 2016 [MIT Pokerbots](http://mitpokerbots.com/) champion. We used a variant of Counterfactual Regret Minimization (CFR) to train our agent to play two- and three-player pot-limited poker. On the other hand, they even gave me a [patent](http://patents.google.com/patent/US9275132B2/en)!
 
 ## Publications
 * [inSPIRE](http://inspirehep.net/author/profile/Daniel.A.Roberts.1)
