@@ -34,7 +34,7 @@ Fully-orthogonally, I'm also interested in machine learning and AI: my team Poke
 
 <!--
 ## Education
-* PhD, high energy theoretical physics (expected) 2016.\\
+* PhD, high energy theoretical physics 2016.\\
 [CTP](http://www-ctp.mit.edu/), [MIT](http://web.mit.edu/)
 * MSc by Research in Computer Science, 2011. \\
 [New College](http://www.new.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/)
