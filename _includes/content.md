@@ -14,7 +14,7 @@ My name is very common, so I try my best to publish under more parts of my full 
 
 {% else %}
 
-My full name is very common, but nevertheless I tend to go only by [Dan Roberts](/)---which I never publish under and which unfortunately (by logical necessity) is even more common.
+My full name is very common, but nevertheless I tend to go only by [Dan Roberts](..)---which I never publish under and which unfortunately (by logical necessity) is even more common.
 
 {% endif %}
 
@@ -44,7 +44,7 @@ Fully-orthogonally, I'm also interested in machine learning and AI: my team Poke
 [Pratt School of Engineering](http://pratt.duke.edu/), [Duke University](http://duke.edu/) -->
 
 ## Talks on YouTube
-![A portrayal of what it might look like to watch my talk on YouTube.](/images/dar-talk.png "A portrayal of what it might look like to watch my talk on YouTube.")
+![A portrayal of what it might look like to watch my talk on YouTube.]({% if page.name-length == "long" %}../{% endif %}images/dar-talk.png "A portrayal of what it might look like to watch my talk on YouTube.")
 
 * Strings 2015 -- [The butterfly effect in spin chains and 2d CFT](http://youtu.be/06fiqmu-9ak)
 * Defense -- [CHAOS, Holography, And Other Science](http://youtu.be/QfwBD-nDQFQ)
@@ -55,8 +55,9 @@ Fully-orthogonally, I'm also interested in machine learning and AI: my team Poke
 * [Complexity growth](http://www.nature.com/nphys/journal/v12/n5/full/nphys3763.html) -- research highlight in [*Nature Physics*](http://www.nature.com/nphys/index.html) (which is two paragraphs---one and a half of which are behind a paywall---and is unfortunately incomprehensible) on the same work.
 
 ## Other Writings
-* [Inaction in computation](/writings/inaction) -- short story + jokes = [*Nature*](http://www.nature.com/nature/focus/arts/futures/) rejection
-* [Thesis](/writings/CHAOS.pdf) -- stapled papers + jokes = PhD
+* [Inaction in computation]({% if page.name-length == "long" %}../{% endif %}writings/inaction) -- short story + jokes = [*Nature*](http://www.nature.com/nature/focus/arts/futures/) rejection
+* [Thesis]({% if page.name-length == "long" %}../{% endif %}writings/CHAOS.pdf) -- stapled papers + jokes = PhD
+
 
 ## Other Links
 * [IAS webpage](http://www.ias.edu/scholars/daniel-roberts)
