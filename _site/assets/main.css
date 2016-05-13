@@ -99,5 +99,6 @@ header p {
   display: inline; }
 
 header img {
-  border: 1px solid #021a40;
+  border: 0px solid #021a40;
+  /* changed from 1px for butterfly image */
   width: 250px; }

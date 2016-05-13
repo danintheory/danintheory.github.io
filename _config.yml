@@ -3,7 +3,8 @@ url:
 baseurl:
 
 # exclude
-exclude: ["CNAME", "LICENSE", "Gemfile", "Gemfile.lock", 'README.md', 'images/dan-jet-pack.svg']
+exclude: ["CNAME", "LICENSE", "Gemfile", "Gemfile.lock", 
+          'README.md', 'images/dan-jet-pack.svg', 'images/butterfly-cat.svg']
 
 # compass configuration
 compass:
@@ -21,7 +22,7 @@ compass:
   # be added at the end of the <head> section. You can add your Google Analytics
   # Tracking Code to that file.
   include_analytics: true
-  description: "Academic website for Dan Roberts (or Daniel Adam Roberts), PhD student in theoretical physics at MIT."
+  description: "Academic website for Dan Roberts (or Daniel Adam Roberts), theoretical physics PhD at MIT."
 
 # Dependencies
 markdown: kramdown

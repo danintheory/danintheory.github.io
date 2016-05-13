@@ -1,4 +1,4 @@
-Personal academic website for [Dan Roberts](http://www.danintheory.com).
+Personal and academic website for [Dan Roberts](http://www.danintheory.com).
 
 This website is based on the [Compass](https://github.com/excentris/compass) Jekyll theme.
 

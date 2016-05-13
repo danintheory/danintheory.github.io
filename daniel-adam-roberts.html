@@ -1,0 +1,18 @@
+---
+layout: base
+name-length: long
+---
+<div class="wrapper">
+    <header>
+      <div class="content">
+          {% markdown %}{% include side.md %}{% endmarkdown %}
+      </div>
+    </header>
+    <main>
+      {% if site.compass.include_content %}
+      <div class="content">
+        {% markdown %}{% include content.md %}{% endmarkdown %}
+      </div>
+      {% endif %}
+    </main>
+</div>

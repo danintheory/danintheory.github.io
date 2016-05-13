@@ -1,0 +1,17 @@
+---
+layout: base
+---
+<div class="wrapper">
+    <header>
+      <div class="content">
+          {% markdown %}{% include sidestory.md %}{% endmarkdown %}
+      </div>
+    </header>
+    <main>
+      {% if site.compass.include_content %}
+      <div class="content">
+        {% markdown %}{% include writings/inaction.md %}{% endmarkdown %}
+      </div>
+      {% endif %}
+    </main>
+</div>
