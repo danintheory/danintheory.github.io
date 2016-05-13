@@ -10,7 +10,7 @@ Previously, I was a Marshall Scholar in the UK. While there, I read for [Part II
 
 {% if page.name-length == "short" %}
 
-My name is very common, so I try my best to publish under more parts of my full name [Daniel Adam Roberts](/daniel-adam-roberts)---which I never go by and which (unfortunately) also happens to be very common.
+My name is very common, so I try my best to publish under more parts of my full name [Daniel Adam Roberts](daniel-adam-roberts/)---which I never go by and which (unfortunately) also happens to be very common.
 
 {% else %}
 
