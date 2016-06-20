@@ -60,5 +60,5 @@ Fully-orthogonally, I'm also interested in machine learning and AI: my team Poke
 
 
 ## Other Links
-* [IAS webpage](http://www.ias.edu/scholars/daniel-roberts)
+<!-- * [IAS webpage](http://www.ias.edu/scholars/daniel-roberts) -->
 * [Hertz Fellow bio](http://www.hertzfoundation.org/dx/fellows/fellow_profile.aspx?d=11191)
