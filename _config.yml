@@ -22,7 +22,7 @@ compass:
   # be added at the end of the <head> section. You can add your Google Analytics
   # Tracking Code to that file.
   include_analytics: true
-  description: "Academic website for Dan Roberts (or Daniel Adam Roberts), theoretical physics PhD at MIT."
+  description: "Academic website for Dan Roberts (or Daniel Adam Roberts), theoretical physics postdoc at the IAS."
 
 # Dependencies
 markdown: kramdown
