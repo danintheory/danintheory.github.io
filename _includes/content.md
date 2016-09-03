@@ -4,9 +4,9 @@
 # Daniel Adam Roberts
 {% endif %}
 
-I just completed my Ph.D. at the [Center for Theoretical Physics](http://www-ctp.mit.edu/) at [MIT](http://web.mit.edu/), funded by a Hertz Foundation Fellowship and the NDSEG. 
+I am a theoretical physics postdoc in the [School of Natural Sciences](http://www.sns.ias.edu/) at the [Institute for Advanced Study](http://www.ias.edu) in Princeton, NJ. 
 
-Previously, I was a Marshall Scholar in the UK. While there, I read for [Part III of the Mathematical Tripos](http://www.maths.cam.ac.uk/postgrad/mathiii/) at [Cambridge](http://www.cam.ac.uk/) and then studied quantum information at [Oxford](http://www.ox.ac.uk/). In a previous life (undergrad), I worked on invisibility cloaks (metamaterials and transformation optics) with [David R. Smith](http://people.ee.duke.edu/~drsmith/). In September 2016, I will begin a postdoc in theoretical physics at the [IAS](http://www.ias.edu) in Princeton, NJ.
+Previously, I completed my Ph.D. at the [Center for Theoretical Physics](http://www-ctp.mit.edu/) at [MIT](http://web.mit.edu/), funded by a Hertz Foundation Fellowship and the NDSEG. Prior to that, I was a Marshall Scholar in the UK. While there, I read for [Part III of the Mathematical Tripos](http://www.maths.cam.ac.uk/postgrad/mathiii/) at [Cambridge](http://www.cam.ac.uk/) and then studied quantum information at [Oxford](http://www.ox.ac.uk/). In a previous life (undergrad), I worked on invisibility cloaks (metamaterials and transformation optics) with [David R. Smith](http://people.ee.duke.edu/~drsmith/).
 
 {% if page.name-length == "short" %}
 
@@ -60,5 +60,5 @@ Fully-orthogonally, I'm also interested in machine learning and AI: my team Poke
 
 
 ## Other Links
-<!-- * [IAS homepage](http://www.ias.edu/scholars/daniel-roberts) -->
+* [IAS homepage](http://www.ias.edu/scholars/daniel-roberts)
 * [Hertz Fellow bio](http://www.hertzfoundation.org/dx/fellows/fellow_profile.aspx?d=11191)
