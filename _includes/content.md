@@ -19,9 +19,9 @@ My full name is very common, but nevertheless I tend to go only by [Dan Roberts]
 {% endif %}
 
 ## Research
-I'm interested in [black holes](http://arxiv.org/abs/1409.8180). I'm also interested in [quantum information theory](http://arxiv.org/abs/1511.04021). Luckily, via the gauge/gravity duality or [holography](http://arxiv.org/abs/1512.04993), these two subjects are intricately tied together.
+I'm interested in [black holes](http://arxiv.org/abs/1409.8180). I'm also interested in [quantum information theory](https://arxiv.org/abs/1610.04903). Luckily, via the gauge/gravity duality or [holography](http://arxiv.org/abs/1512.04993), these two subjects are intricately tied together.
 
-Some of my work focuses on what happens when something falls into a black hole (in anti-de Sitter space). The black hole will very quickly scramble (but not destroy) the information. Black holes are thermal systems, and this is actually a manifestation of the well-known [butterfly effect](http://arxiv.org/abs/1603.09298). We can try to think about this process in terms of its computational [complexity](http://arxiv.org/abs/1509.07876), or we can study it as a distinguishing feature of [quantum chaos](http://arxiv.org/abs/1412.5123).
+Some of my work focuses on what happens when something falls into a black hole (in anti-de Sitter space). The black hole will very quickly [scramble](http://arxiv.org/abs/1511.04021) (but not destroy) the information. Black holes are thermal systems, and this is actually a manifestation of the well-known [butterfly effect](http://arxiv.org/abs/1603.09298). We can try to think about this process in terms of its computational [complexity](http://arxiv.org/abs/1509.07876), or we can study it as a distinguishing feature of [quantum chaos](http://arxiv.org/abs/1412.5123).
 
 Semi-orthogonally, I'm interested in applying supersymmetry (SUSY) to early universe cosmology; in other words, studying how inflation is embedded in supergravity (SUGRA). The first step is to understand the minimal low-energy degrees of freedom, the [goldstone and goldstino](http://arxiv.org/abs/1504.05958), using the effective field theory of inflation.
 
