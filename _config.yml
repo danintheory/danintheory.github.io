@@ -14,7 +14,7 @@ compass:
   author: "Dan Roberts"
   # tagline will appear under the title (optional)
   # tagline: "PhD student in high energy theoretical physics"
-  tagline: "Physics"
+  tagline: "Physics and AI"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
@@ -31,7 +31,7 @@ parse_block_html: true
 
 # Permalinks
 permalink: pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 
 scholar:

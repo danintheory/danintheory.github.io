@@ -49,10 +49,10 @@ since it must be aligned with the content */
 hr {
   border: 0;
   height: 1px;
-  background-image: -webkit-linear-gradient(left, transparent, #839496, transparent);
-  background-image: -moz-linear-gradient(left, transparent, #839496, transparent);
-  background-image: -ms-linear-gradient(left, transparent, #839496, transparent);
-  background-image: -o-linear-gradient(left, transparent, #839496, transparent); }
+  background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, 0), #839496, rgba(0, 0, 0, 0));
+  background-image: -moz-linear-gradient(left, rgba(0, 0, 0, 0), #839496, rgba(0, 0, 0, 0));
+  background-image: -ms-linear-gradient(left, rgba(0, 0, 0, 0), #839496, rgba(0, 0, 0, 0));
+  background-image: -o-linear-gradient(left, rgba(0, 0, 0, 0), #839496, rgba(0, 0, 0, 0)); }
 
 /*** footer ***/
 footer {
