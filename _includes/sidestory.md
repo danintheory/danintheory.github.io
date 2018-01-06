@@ -1,1 +1,0 @@
-![Image credit (for the image that's not loading for you): Nicole Roberts, www.NicoleARoberts.com](../../images/butterfly-cat.png "Image credit: Nicole Roberts, www.NicoleARoberts.com")
