@@ -25,7 +25,7 @@ Some of my work focuses on what happens when something falls into a black hole (
 
 Semi-orthogonally, I'm interested in applying supersymmetry (SUSY) to early universe cosmology; in other words, studying how inflation is embedded in supergravity (SUGRA). The first step is to understand the minimal low-energy degrees of freedom, the [goldstone and goldstino](http://arxiv.org/abs/1504.05958), using the effective field theory of inflation.
 
-Fully-orthogonally, I'm also interested in machine learning and AI: my team Pokermon entered and won the 2015 and 2016 [MIT Pokerbots](http://mitpokerbots.com/) tournament. We used a variant of Counterfactual Regret Minimization (CFR) to train our agent to play two- and three-player pot-limited poker. Unrelatedly, they even gave me a [patent](http://patents.google.com/patent/US9275132B2/en)!
+Fully-orthogonally, I'm also interested in machine learning and AI: my team Pokermon entered and won the 2015 and 2016 MIT Pokerbots tournament. We used a variant of Counterfactual Regret Minimization (CFR) to train our agent to play two- and three-player pot-limited poker. Unrelatedly, they even gave me a [patent](http://patents.google.com/patent/US9275132B2/en)!
 
 ## Publications
 * [inSPIRE](http://inspirehep.net/author/profile/Daniel.A.Roberts.1)
