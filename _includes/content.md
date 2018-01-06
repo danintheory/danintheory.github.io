@@ -4,7 +4,9 @@
 # Daniel Adam Roberts
 {% endif %}
 
-I am a theoretical physics postdoc in the [School of Natural Sciences](http://www.sns.ias.edu/) at the [Institute for Advanced Study](http://www.ias.edu) in Princeton, NJ. 
+I am a theoretical physics postdoc in the [School of Natural Sciences](http://www.sns.ias.edu/) at the [Institute for Advanced Study](http://www.ias.edu) in Princeton, NJ. Beginning February 2018, I will be a research scientist at [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/) in NYC.
+
+I am interested in the interplay between physics and computation. My work in theoretical physics has focused on the relationship between [black holes](http://arxiv.org/abs/1409.8180), [quantum chaos](http://arxiv.org/abs/1412.5123), [computational complexity](http://arxiv.org/abs/1509.07876), [randomnesss](https://arxiv.org/abs/1610.04903), and how the laws of physics are related to fundamental limits of computation.
 
 Previously, I completed my Ph.D. at the [Center for Theoretical Physics](http://www-ctp.mit.edu/) at [MIT](http://web.mit.edu/), funded by a Hertz Foundation Fellowship and the NDSEG. Prior to that, I was a Marshall Scholar in the UK. While there, I read for [Part III of the Mathematical Tripos](http://www.maths.cam.ac.uk/postgrad/mathiii/) at [Cambridge](http://www.cam.ac.uk/) and then studied quantum information at [Oxford](http://www.ox.ac.uk/). In a previous life (undergrad), I worked on invisibility cloaks (metamaterials and transformation optics) with [David R. Smith](http://people.ee.duke.edu/~drsmith/).
 
@@ -18,14 +20,24 @@ My full name is very common, but nevertheless I tend to go only by [Dan Roberts]
 
 {% endif %}
 
-## Research
+## Theoretical Physics
+
 I'm interested in [black holes](http://arxiv.org/abs/1409.8180). I'm also interested in [quantum information theory](https://arxiv.org/abs/1610.04903). Luckily, via the gauge/gravity duality or [holography](http://arxiv.org/abs/1512.04993), these two subjects are intricately tied together.
 
 Some of my work focuses on what happens when something falls into a black hole (in anti-de Sitter space). The black hole will very quickly [scramble](http://arxiv.org/abs/1511.04021) (but not destroy) the information. Black holes are thermal systems, and this is actually a manifestation of the well-known [butterfly effect](http://arxiv.org/abs/1603.09298). We can try to think about this process in terms of its computational [complexity](http://arxiv.org/abs/1509.07876), or we can study it as a distinguishing feature of [quantum chaos](http://arxiv.org/abs/1412.5123).
 
-Semi-orthogonally, I'm interested in applying supersymmetry (SUSY) to early universe cosmology; in other words, studying how inflation is embedded in supergravity (SUGRA). The first step is to understand the minimal low-energy degrees of freedom, the [goldstone and goldstino](http://arxiv.org/abs/1504.05958), using the effective field theory of inflation.
+<!-- Semi-orthogonally, I'm interested in applying supersymmetry (SUSY) to early universe cosmology; in other words, studying how inflation is embedded in supergravity (SUGRA). The first step is to understand the minimal low-energy degrees of freedom, the [goldstone and goldstino](http://arxiv.org/abs/1504.05958), using the effective field theory of inflation. -->
 
-Fully-orthogonally, I'm also interested in machine learning and AI: my team Pokermon entered and won the 2015 and 2016 MIT Pokerbots tournament. We used a variant of Counterfactual Regret Minimization (CFR) to train our agent to play two- and three-player pot-limited poker. Unrelatedly, they even gave me a [patent](http://patents.google.com/patent/US9275132B2/en)!
+## AI and Machine Learning
+
+In 2012, I co-founded [Diffeo](https://diffeo.com/), a startup focused on collaborative machine intelligence. As part of [Diffeo Labs](https://diffeo.com/labs/), I also co-organized the [TREC](http://trec.nist.gov/) track [Knowledge Base Acceleration](http://trec-kba.org/).
+
+At [FAIR](https://research.fb.com/category/facebook-ai-research-fair/), I hope to focus on applying tools from theoretical physics to gain insight into machine learning and artificial intelligence.
+
+I also organize an online journal club [hep-ai](https://groups.google.com/forum/#!forum/hep-ai) for discussions of machine learning and AI papers from a theoretical physicist's perspective. Let me know if you're interested in joining!
+
+
+<!-- Fully-orthogonally, I'm also interested in machine learning and AI: my team Pokermon entered and won the 2015 and 2016 MIT Pokerbots tournament. We used a variant of Counterfactual Regret Minimization (CFR) to train our agent to play two- and three-player pot-limited poker.  -->
 
 ## Publications
 * [inSPIRE](http://inspirehep.net/author/profile/Daniel.A.Roberts.1)
@@ -61,4 +73,4 @@ Fully-orthogonally, I'm also interested in machine learning and AI: my team Poke
 
 ## Other Links
 * [IAS homepage](http://www.ias.edu/scholars/daniel-roberts)
-* [Hertz Fellow bio](http://www.hertzfoundation.org/dx/fellows/fellow_profile.aspx?d=11191)
+* [Hertz Fellow bio](http://hertzfoundation.org/fellows/fellow-profile/11191/Daniel-A-Roberts)

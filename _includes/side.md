@@ -5,9 +5,9 @@ Email: [roberts@ias.edu](mailto:roberts@ias.edu)
 Twitter: [@danintheory](http://twitter.com/danintheory)
 <br />
 {% if page.name-length == "short" %}
-Website: [www.danintheory.com](.) 
+Website: [danintheory.com](.) 
 <br />
 (just redirects back here)
 {% else %}
-Website: [www.danintheory.com]({% if page.name-length == "long" %}..{% endif %}) 
+Website: [danintheory.com]({% if page.name-length == "long" %}..{% endif %}) 
 {% endif %}
