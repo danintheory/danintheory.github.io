@@ -6,6 +6,9 @@ baseurl:
 exclude: ["CNAME", "LICENSE", "Gemfile", "Gemfile.lock", 
           'README.md', 'images/dan-jet-pack.svg', 'images/butterfly-cat.svg']
 
+plugins:
+   - kramdown
+
 # compass configuration
 compass:
   # an avatar or logo (optional)
