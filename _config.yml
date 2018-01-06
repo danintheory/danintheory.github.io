@@ -6,9 +6,6 @@ baseurl:
 exclude: ["CNAME", "LICENSE", "Gemfile", "Gemfile.lock", 
           'README.md', 'images/dan-jet-pack.svg', 'images/butterfly-cat.svg']
 
-plugins:
-   - kramdown
-
 # compass configuration
 compass:
   # an avatar or logo (optional)
@@ -28,9 +25,9 @@ compass:
   description: "Academic website for Dan Roberts (or Daniel Adam Roberts), theoretical physics postdoc at the IAS."
 
 # Dependencies
-markdown: kramdown
-highlighter: pygments
-parse_block_html: true
+# markdown: kramdown
+# highlighter: pygments
+# parse_block_html: true
 
 # Permalinks
 permalink: pretty
