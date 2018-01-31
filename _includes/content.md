@@ -34,7 +34,7 @@ In 2012, I co-founded [Diffeo](https://diffeo.com/), a startup focused on collab
 
 At [FAIR](https://research.fb.com/category/facebook-ai-research-fair/), I hope to focus on applying tools from theoretical physics to gain insight into machine learning and artificial intelligence.
 
-I also organize an online journal club [hep-ai](https://groups.google.com/forum/#!forum/hep-ai) for discussions of machine learning and AI papers from a theoretical physicist's perspective. Let me know if you're interested in joining!
+I also organize an online journal club [hep-ai](https://hep-ai.org) for discussions of machine learning and AI papers from a theoretical physicist's perspective. Let me know if you're interested in joining!
 
 
 <!-- Fully-orthogonally, I'm also interested in machine learning and AI: my team Pokermon entered and won the 2015 and 2016 MIT Pokerbots tournament. We used a variant of Counterfactual Regret Minimization (CFR) to train our agent to play two- and three-player pot-limited poker.  -->
