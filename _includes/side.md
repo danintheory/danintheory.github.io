@@ -1,8 +1,10 @@
 ![I study gravity.]({% if page.name-length == "long" %}../{% endif %}images/dan-jet-pack.png "I study gravity.")
 <br />
-Email: [roberts@ias.edu](mailto:roberts@ias.edu)
+Email: [danr@fb.com](mailto:danr@fb.com)
 <br />
-Twitter: [@danintheory](http://twitter.com/danintheory)
+Twitter: [@danintheory](https://twitter.com/danintheory)
+<br />
+GitHub: [@danintheory](https://github.com/danintheory)
 <br />
 {% if page.name-length == "short" %}
 Website: [danintheory.com](.) 
