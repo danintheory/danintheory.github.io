@@ -6,7 +6,7 @@
 
 I am a research scientist at [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/) in NYC.
 
-I am interested in the interplay between physics and computation. My work in theoretical physics has focused on the relationship between [black holes](http://arxiv.org/abs/1409.8180), [quantum chaos](http://arxiv.org/abs/1412.5123), [computational complexity](http://arxiv.org/abs/1509.07876), [randomnesss](https://arxiv.org/abs/1610.04903), and how the laws of physics are related to fundamental limits of computation.
+I am interested in the interplay between physics and computation. My work in theoretical physics has focused on the relationship between [black holes](http://arxiv.org/abs/1409.8180), [quantum chaos](http://arxiv.org/abs/1412.5123), [computational complexity](http://arxiv.org/abs/1509.07876), [randomness](https://arxiv.org/abs/1610.04903), and how the laws of physics are related to fundamental limits of computation.
 
 Previously, I was a postdoc in the [School of Natural Sciences](http://www.sns.ias.edu/) at the [Institute for Advanced Study](http://www.ias.edu) in Princeton, NJ. I completed my Ph.D. at the [Center for Theoretical Physics](http://www-ctp.mit.edu/) at [MIT](http://web.mit.edu/), funded by a Hertz Foundation Fellowship and the NDSEG. Prior to that, I was a Marshall Scholar in the UK. While there, I read for [Part III of the Mathematical Tripos](http://www.maths.cam.ac.uk/postgrad/mathiii/) at [Cambridge](http://www.cam.ac.uk/) and then studied quantum information at [Oxford](http://www.ox.ac.uk/). In a previous life (undergrad), I worked on invisibility cloaks (metamaterials and transformation optics) with [David R. Smith](http://people.ee.duke.edu/~drsmith/).
 
