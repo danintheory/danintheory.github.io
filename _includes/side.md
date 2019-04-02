@@ -1,6 +1,6 @@
-![I study gravity.]({% if page.name-length == "long" %}../{% endif %}images/dan-jet-pack.png "I study gravity.")
+![I studied gravity.]({% if page.name-length == "long" %}../{% endif %}images/dan-jet-pack.png "I studied gravity.")
 <br />
-Email: [danr@fb.com](mailto:danr@fb.com)
+Email: [dan@diffeo.com](mailto:dan@diffeo.com)
 <br />
 Twitter: [@danintheory](https://twitter.com/danintheory)
 <br />

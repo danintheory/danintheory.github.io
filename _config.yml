@@ -14,7 +14,7 @@ compass:
   author: "Dan Roberts"
   # tagline will appear under the title (optional)
   # tagline: "PhD student in high energy theoretical physics"
-  tagline: "Physics and AI"
+  tagline: "Theoretical Physics and AI"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
@@ -22,7 +22,7 @@ compass:
   # be added at the end of the <head> section. You can add your Google Analytics
   # Tracking Code to that file.
   include_analytics: true
-  description: "Academic website for Dan Roberts (or Daniel Adam Roberts), theoretical physics postdoc at the IAS and research scientist at FAIR."
+  description: "Academic website for Dan Roberts (or Daniel Adam Roberts), Co-Founder at Diffeo."
 
 # Dependencies
 # markdown: kramdown
@@ -34,23 +34,23 @@ permalink: pretty
 # relative_permalinks: true
 
 
-scholar:
-  style: ieee
-  locale: en
+# scholar:
+#   style: ieee
+#   locale: en
 
-  sort_by: year
-  order: descending
+#   sort_by: year
+#   order: descending
 
-  source: ./_bibliography
-  bibliography: hep-publications.bib
-  bibliography_template: "{{reference}}"
-  # bibliography_template: "{{reference}} {% if link %}[<a href=\"{{link}}\">pdf</a>]{% endif %}"
+#   source: ./_bibliography
+#   bibliography: hep-publications.bib
+#   bibliography_template: "{{reference}}"
+#   # bibliography_template: "{{reference}} {% if link %}[<a href=\"{{link}}\">pdf</a>]{% endif %}"
 
-  replace_strings: true
-  join_strings:    true
+#   replace_strings: true
+#   join_strings:    true
 
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
+#   details_dir:    bibliography
+#   details_layout: bibtex.html
+#   details_link:   Details
 
-  query: "@*"
+#   query: "@*"

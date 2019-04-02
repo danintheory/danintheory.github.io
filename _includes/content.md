@@ -4,11 +4,11 @@
 # Daniel Adam Roberts
 {% endif %}
 
-I am a research scientist at [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/) in NYC.
+I am a Co-Founder at [Diffeo](https://diffeo.com) working on collaborative intelligence problems using machine learning. As a part of [Diffeo Labs](https://diffeo.com/labs/), I am thinking about how the tools and perspective from theoretical physics can be [applied](https://research.fb.com/publications/sgd-implicitly-regularizes-generalization-error/) to artificial intelligence.
 
-I am interested in the interplay between physics and computation. My work in theoretical physics has focused on the relationship between [black holes](http://arxiv.org/abs/1409.8180), [quantum chaos](http://arxiv.org/abs/1412.5123), [computational complexity](http://arxiv.org/abs/1509.07876), [randomness](https://arxiv.org/abs/1610.04903), and how the laws of physics are related to fundamental limits of computation.
+More broadly, I am interested in the interplay between physics and computation. My work in theoretical physics has focused on the relationship between [black holes](http://arxiv.org/abs/1409.8180), [quantum chaos](http://arxiv.org/abs/1412.5123), [computational complexity](http://arxiv.org/abs/1509.07876), [randomness](https://arxiv.org/abs/1610.04903), and how the laws of physics are related to fundamental limits of computation.
 
-Previously, I was a postdoc in the [School of Natural Sciences](http://www.sns.ias.edu/) at the [Institute for Advanced Study](http://www.ias.edu) in Princeton, NJ. I completed my Ph.D. at the [Center for Theoretical Physics](http://www-ctp.mit.edu/) at [MIT](http://web.mit.edu/), funded by a Hertz Foundation Fellowship and the NDSEG. Prior to that, I was a Marshall Scholar in the UK. While there, I read for [Part III of the Mathematical Tripos](http://www.maths.cam.ac.uk/postgrad/mathiii/) at [Cambridge](http://www.cam.ac.uk/) and then studied quantum information at [Oxford](http://www.ox.ac.uk/). In a previous life (undergrad), I worked on invisibility cloaks (metamaterials and transformation optics) with [David R. Smith](http://people.ee.duke.edu/~drsmith/).
+Previously, I was a research scientist at [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/) in NYC. Before that, I was a postdoc in the [School of Natural Sciences](http://www.sns.ias.edu/) at the [Institute for Advanced Study](http://www.ias.edu) in Princeton, NJ. I completed my Ph.D. at the [Center for Theoretical Physics](http://www-ctp.mit.edu/) at [MIT](http://web.mit.edu/), funded by a Hertz Foundation Fellowship and the NDSEG. Prior to that, I was a Marshall Scholar in the UK. While there, I read for [Part III of the Mathematical Tripos](http://www.maths.cam.ac.uk/postgrad/mathiii/) at [Cambridge](http://www.cam.ac.uk/) and then studied quantum information at [Oxford](http://www.ox.ac.uk/). In a previous life (undergrad), I worked on invisibility cloaks (metamaterials and transformation optics) with [David R. Smith](http://people.ee.duke.edu/~drsmith/).
 
 {% if page.name-length == "short" %}
 
@@ -20,6 +20,18 @@ My full name is very common, but nevertheless I tend to go only by [Dan Roberts]
 
 {% endif %}
 
+
+## Artificial Intelligence
+
+In 2012, I co-founded [Diffeo](https://diffeo.com/), a startup focused on collaborative machine intelligence. As part of [Diffeo Labs](https://diffeo.com/labs/), I co-organized the [TREC](http://trec.nist.gov/) track [Knowledge Base Acceleration](http://trec-kba.org/).
+
+While a research scientist at [FAIR](https://research.fb.com/category/facebook-ai-research-fair/), I focused on [applying tools](https://arxiv.org/abs/1812.04754) from theoretical physics to [gain insight](https://research.fb.com/publications/causality-in-physics-and-effective-theories-of-agency/) into machine learning and artificial intelligence.
+
+I also organize an online journal club [hep-ai](https://hep-ai.org) for discussions of machine learning and AI papers from a theoretical physicist's perspective. Please email me if you're interested in joining!
+
+
+<!-- Fully-orthogonally, I'm also interested in machine learning and AI: my team Pokermon entered and won the 2015 and 2016 MIT Pokerbots tournament. We used a variant of Counterfactual Regret Minimization (CFR) to train our agent to play two- and three-player pot-limited poker.  -->
+
 ## Theoretical Physics
 
 I'm interested in [black holes](http://arxiv.org/abs/1409.8180). I'm also interested in [quantum information theory](https://arxiv.org/abs/1610.04903). Luckily, via the gauge/gravity duality or [holography](http://arxiv.org/abs/1512.04993), these two subjects are intricately tied together.
@@ -28,16 +40,6 @@ Some of my work focuses on what happens when something falls into a black hole (
 
 <!-- Semi-orthogonally, I'm interested in applying supersymmetry (SUSY) to early universe cosmology; in other words, studying how inflation is embedded in supergravity (SUGRA). The first step is to understand the minimal low-energy degrees of freedom, the [goldstone and goldstino](http://arxiv.org/abs/1504.05958), using the effective field theory of inflation. -->
 
-## AI
-
-In 2012, I co-founded [Diffeo](https://diffeo.com/), a startup focused on collaborative machine intelligence. As part of [Diffeo Labs](https://diffeo.com/labs/), I also co-organized the [TREC](http://trec.nist.gov/) track [Knowledge Base Acceleration](http://trec-kba.org/).
-
-At [FAIR](https://research.fb.com/category/facebook-ai-research-fair/), I hope to focus on applying tools from theoretical physics to gain insight into machine learning and artificial intelligence.
-
-I also organize an online journal club [hep-ai](https://hep-ai.org) for discussions of machine learning and AI papers from a theoretical physicist's perspective. Please email me if you're interested in joining!
-
-
-<!-- Fully-orthogonally, I'm also interested in machine learning and AI: my team Pokermon entered and won the 2015 and 2016 MIT Pokerbots tournament. We used a variant of Counterfactual Regret Minimization (CFR) to train our agent to play two- and three-player pot-limited poker.  -->
 
 ## Publications
 * [inSPIRE](http://inspirehep.net/author/profile/Daniel.A.Roberts.1)
