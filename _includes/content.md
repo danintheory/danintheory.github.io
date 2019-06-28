@@ -4,7 +4,7 @@
 # Daniel Adam Roberts
 {% endif %}
 
-I am a Co-Founder at [Diffeo](https://diffeo.com) working on collaborative intelligence problems using machine learning. As a part of [Diffeo Labs](https://diffeo.com/labs/), I am thinking about how the tools and perspective from theoretical physics can be [applied](https://research.fb.com/publications/sgd-implicitly-regularizes-generalization-error/) to artificial intelligence.
+I am a Co-Founder and Chief Technology Officer at [Diffeo](https://diffeo.com) working on collaborative intelligence problems using machine learning. As a part of [Diffeo Labs](https://diffeo.com/labs/), I am thinking about how the tools and perspective from theoretical physics can be [applied](https://research.fb.com/publications/sgd-implicitly-regularizes-generalization-error/) to artificial intelligence.
 
 More broadly, I am interested in the interplay between physics and computation. My work in theoretical physics has focused on the relationship between [black holes](http://arxiv.org/abs/1409.8180), [quantum chaos](http://arxiv.org/abs/1412.5123), [computational complexity](http://arxiv.org/abs/1509.07876), [randomness](https://arxiv.org/abs/1610.04903), and how the laws of physics are related to fundamental limits of computation.
 
