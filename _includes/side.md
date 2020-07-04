@@ -1,6 +1,6 @@
 ![I studied gravity.]({% if page.name-length == "long" %}../{% endif %}images/dan-jet-pack.png "I studied gravity.")
 <br />
-Email: [dan@diffeo.com](mailto:dan@diffeo.com)
+Email: [drob@mit.edu](mailto:drob@mit.edu)
 <br />
 Twitter: [@danintheory](https://twitter.com/danintheory)
 <br />
