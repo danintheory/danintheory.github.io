@@ -4,7 +4,7 @@
 # Daniel Adam Roberts
 {% endif %}
 
-I am a Research Affiliate at the [Center for Theoretical Physics](https://www-ctp.mit.edu/) at [MIT](http://web.mit.edu/) and also a Principal Researcher at [Salesforce](https://salesforce.com), having arrived via acquisition of [Diffeo](https://diffeo.com) where I was Co-Founder and Chief Technology Officer. I research ways in which the tools and perspective from theoretical physics can be applied to artificial intelligence.
+I am a Research Affiliate at the [Center for Theoretical Physics](http://www-ctp.mit.edu/) at [MIT](http://web.mit.edu/) and also a Principal Researcher at [Salesforce](https://salesforce.com), having arrived via acquisition of [Diffeo](https://diffeo.com) where I was Co-Founder and Chief Technology Officer. I research ways in which the tools and perspective from theoretical physics can be applied to artificial intelligence.
 
 More broadly, I am interested in the interplay between physics and computation. My work in theoretical physics has focused on the relationship between [black holes](http://arxiv.org/abs/1409.8180), [quantum chaos](http://arxiv.org/abs/1412.5123), [computational complexity](http://arxiv.org/abs/1509.07876), [randomness](https://arxiv.org/abs/1610.04903), and how the laws of physics are related to fundamental limits of computation.
 
